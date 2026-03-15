@@ -2,7 +2,7 @@
 src/.clasp.json
 
 # local development file
-src/local_dev.gs
+src/local_dev.js
 
 # notification engine files
 src/core_*
